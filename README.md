@@ -1,4 +1,6 @@
 # Java Full Stack Developer
+#Professional Summary
+-I am an experienced Full Stack Java Developer with over 5 years of expertise in designing, developing, and deploying scalable web applications using Java, Spring Boot, and Microservices architecture. Skilled in frontend technologies like React.js and Angular, I specialize in building dynamic, user-centric interfaces while ensuring seamless integration with backend services. have a strong background in API development (RESTful & GraphQL), real-time data processing with Apache Kafka, and database optimization (MySQL, PostgreSQL, MongoDB, and Oracle). Passionate about mentoring teams, optimizing system performance, and driving innovation, I actively contribute to high-performance, scalable, and secure software solutions.
 
 ### Education
 
