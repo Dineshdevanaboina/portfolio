@@ -5,17 +5,17 @@
 -I am an experienced Full Stack Java Developer with over 5 years of expertise in designing, developing, and deploying scalable web applications using Java, Spring Boot, and Microservices architecture. Skilled in frontend technologies like React.js and Angular, I specialize in building dynamic, user-centric interfaces while ensuring seamless integration with backend services. have a strong background in API development (RESTful & GraphQL), real-time data processing with Apache Kafka, and database optimization (MySQL, PostgreSQL, MongoDB, and Oracle). Passionate about mentoring teams, optimizing system performance, and driving innovation, I actively contribute to high-performance, scalable, and secure software solutions.
 
 #Technical Skills
-       -Programming Languages: Java, JavaScript, TypeScript, Python, HTML, CSS
-       -Backend Development: Spring Boot, Spring MVC, Hibernate, Node.js, Express.js, RESTful APIs, GraphQL, Microservices Architecture
-       -Frontend Development: React.js, Angular, Vue.js, Redux, RxJS, Material-UI, Bootstrap, Tailwind CSS
-       -Databases: MySQL, PostgreSQL, MongoDB, Oracle, Redis, DynamoDB
-       -Cloud & DevOps: AWS, GCP, Azure, Docker, Kubernetes, Terraform, CI/CD (Jenkins, GitHub Actions, Azure DevOps)
-       -Security & Authentication: OAuth2, JWT, SSO, RBAC, API Gateway Security Policies
-       -Caching & Messaging Queues: Redis, Kafka, RabbitMQ
-       -Testing & Automation: JUnit, Mockito, Selenium, Cypress, Jest
-       -Monitoring & Logging: Elasticsearch, Kibana, Prometheus, Grafana
-       -Build & Version Control: Git, GitHub, Bitbucket, Maven, Gradle
-       -Data Processing & Analytics: Apache Spark, ETL Pipelines
+       # Programming Languages: Java, JavaScript, TypeScript, Python, HTML, CSS
+       # Backend Development: Spring Boot, Spring MVC, Hibernate, Node.js, Express.js, RESTful APIs, GraphQL, Microservices Architecture
+       # Frontend Development: React.js, Angular, Vue.js, Redux, RxJS, Material-UI, Bootstrap, Tailwind CSS
+       # Databases: MySQL, PostgreSQL, MongoDB, Oracle, Redis, DynamoDB
+       # Cloud & DevOps: AWS, GCP, Azure, Docker, Kubernetes, Terraform, CI/CD (Jenkins, GitHub Actions, Azure DevOps)
+       # Security & Authentication: OAuth2, JWT, SSO, RBAC, API Gateway Security Policies
+       # Caching & Messaging Queues: Redis, Kafka, RabbitMQ
+       # Testing & Automation: JUnit, Mockito, Selenium, Cypress, Jest
+       # Monitoring & Logging: Elasticsearch, Kibana, Prometheus, Grafana
+       # Build & Version Control: Git, GitHub, Bitbucket, Maven, Gradle
+       # Data Processing & Analytics: Apache Spark, ETL Pipelines
  
 ###work experience
 
