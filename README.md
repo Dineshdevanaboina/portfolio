@@ -6,19 +6,19 @@ I am an experienced Full Stack Java Developer with over 5 years of expertise in 
 
 ### Technical Skills
 
-Programming Languages: Java, JavaScript, TypeScript, Python, HTML, CSS
+### Programming Languages: Java, JavaScript, TypeScript, Python, HTML, CSS
 
-Backend Development: Spring Boot, Spring MVC, Hibernate, Node.js, Express.js, RESTful APIs, GraphQL, Microservices Architecture
+### Backend Development: Spring Boot, Spring MVC, Hibernate, Node.js, Express.js, RESTful APIs, GraphQL, Microservices Architecture
 
-Frontend Development: React.js, Angular, Vue.js, Redux, RxJS, Material-UI, Bootstrap, Tailwind CSS
+### Frontend Development: React.js, Angular, Vue.js, Redux, RxJS, Material-UI, Bootstrap, Tailwind CSS
 
-Databases: MySQL, PostgreSQL, MongoDB, Oracle, Redis, DynamoDB
+### Databases: MySQL, PostgreSQL, MongoDB, Oracle, Redis, DynamoDB
 
-Cloud & DevOps: AWS, GCP, Azure, Docker, Kubernetes, Terraform, CI/CD (Jenkins, GitHub Actions, Azure DevOps)
+### Cloud & DevOps: AWS, GCP, Azure, Docker, Kubernetes, Terraform, CI/CD (Jenkins, GitHub Actions, Azure DevOps)
 
-Security & Authentication: OAuth2, JWT, SSO, RBAC, API Gateway Security Policies
+### Security & Authentication: OAuth2, JWT, SSO, RBAC, API Gateway Security Policies
 
-Caching & Messaging Queues: Redis, Kafka, RabbitMQ
+### Caching & Messaging Queues: Redis, Kafka, RabbitMQ
 
 Testing & Automation: JUnit, Mockito, Selenium, Cypress, Jest
 
