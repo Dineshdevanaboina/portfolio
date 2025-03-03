@@ -36,5 +36,6 @@ Integrated AWS services (EC2, Lambda, S3, RDS) to enhance system performance and
 Built real-time messaging systems with Kafka and RabbitMQ, ensuring efficient data processing across microservices.
 
 ### Education
- 
-Master Of Science Information Technology      University of kansas
+
+**M.S., Computer Science** | University of Kansas  
+**Integrated M.Tech** | Vellore Institute of Technology  
