@@ -18,7 +18,7 @@ I am an experienced Full Stack Java Developer with over 5 years of expertise in 
 **Build & Version Control:** Git, GitHub, Bitbucket, Maven, Gradle  
 **Data Processing & Analytics:** Apache Spark, ETL Pipelines  
 
-### Work Experience
+### Work Experience  
 
 **Java Full Stack Developer – AbbVie (June 2024 – Present)**  
 - Developed microservices-based applications using Spring Boot and GraphQL, enhancing data processing efficiency by 40%.  
@@ -34,6 +34,16 @@ I am an experienced Full Stack Java Developer with over 5 years of expertise in 
 - Developed cloud-based laboratory management systems using Java, Spring Boot, and React.js, improving scalability and security.  
 - Integrated AWS services (EC2, Lambda, S3, RDS) to enhance system performance and availability.  
 - Built real-time messaging systems with Kafka and RabbitMQ, ensuring efficient data processing across microservices.  
+
+**Java Full Stack Engineer – Microchip Technology (May 2020 – Sep 2020)**  
+- Developed enterprise-level applications using Java, Spring Boot, and React.js, improving performance and scalability.  
+- Integrated Kafka and RabbitMQ for real-time messaging, enhancing system reliability and communication.  
+- Deployed applications on AWS using Lambda, S3, and RDS, optimizing cost and scalability.  
+
+**Java Full Stack Developer – Prograd (May 2018 – May 2020)**  
+- Designed and developed a MERN stack-based invoicing platform for small businesses, streamlining financial processes.  
+- Implemented JWT and OAuth2 authentication, ensuring secure and scalable access management.  
+- Deployed the application to AWS EC2 and S3, ensuring high availability and reliable cloud performance.  
 
 ### Education  
 
