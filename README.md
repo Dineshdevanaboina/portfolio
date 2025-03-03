@@ -1,3 +1,4 @@
+![Dinesh Devanaboina]({{ site.logo }})
 # Java Full Stack Developer
 
 ### Professional Summary
